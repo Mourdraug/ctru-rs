@@ -1,6 +1,6 @@
 [package]
 name = "ctru-sys"
-version = "22.2.0+2.2.2-1"
+version = "22.2.0+2.3.0-1"
 authors = ["Rust3DS Org", "Ronald Kinard <furyhunter600@gmail.com>"]
 description = "Raw bindings to libctru"
 repository = "https://github.com/rust3ds/ctru-rs"
